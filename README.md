@@ -1,5 +1,5 @@
-# Contrast Security Hosted Demo Environment
-This repo contains multiple scripts used to launch, manage, and use the Contrast Security Hosted Demo Environment.  The demo environment is comprised of a "virtual developer workstation" and related services hosted in AWS, which enables demonstrations of Contrast's innovative application security monitoring and protection platform.
+# Contrast Security Hosted Demo Environment 1
+This repo contains multiple scripts used to launch, manage, and use the Contrast Security HDE1.  The demo environment is comprised of a "virtual developer workstation" and related services hosted in AWS, which enables demonstrations of Contrast's innovative application security monitoring and protection platform.
 
 The provided shell scripts are meant to  be run from a Mac.  The included PowerShell scripts are meant to be used from within the Windows "virtual developer workstation" for demonstration additional Contrast capabilities.
 
