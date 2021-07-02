@@ -5,7 +5,8 @@
 # Variables
 
 # This value should updated whenever a new AMI for the Contrast HDE1 "golden image" is created
-DEFAULT_DEMO_AMI=hde-0.1.55b
+# DEFAULT_DEMO_AMI=hde-0.1.55b
+DEFAULT_DEMO_AMI=hde-0.1.55c
 
 USAGE="Usage: $0 [demo version] [customer name or description] [your name] [your target AWS region] [hours to keep demo running]\n\nExample:\n$0 default 'Acme Corp' 'Brian Chau' us-west-1 2"
 VERSION=$1
